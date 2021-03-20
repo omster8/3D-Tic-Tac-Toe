@@ -1,2 +1,2 @@
 # ics3u-isp
-This is my ICS3U ISP that is coded in Java. It is a 3-D tic tac toe game.
+3D Tic-Tac-Toe in Java. Coded for my ICS3U ISP.
